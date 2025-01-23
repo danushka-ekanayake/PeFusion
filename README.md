@@ -8,3 +8,6 @@ This custom PE loader is designed to load simple PE files, such as "Hello World"
     Exception Handler Registration: Registers exception handlers to enable proper error handling during execution.
 
 Currently, the loader does not handle the TLS (Thread Local Storage) Directory, and it is only compatible with basic PE files.
+
+    Usage:
+        PeFusion.exe "<PATH TO THE PE FILE>"
