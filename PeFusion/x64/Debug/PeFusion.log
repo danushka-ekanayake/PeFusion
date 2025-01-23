@@ -1,0 +1,11 @@
+﻿  PeFusion.cpp
+C:\Users\user\source\repos\PeFusion\PeFusion\PeHandler.h(75,90): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'PeFusion.cpp')
+  
+C:\Users\user\source\repos\PeFusion\PeFusion\PeHandler.h(96,38): warning C4090: 'initializing': different '__unaligned' qualifiers
+  (compiling source file 'PeFusion.cpp')
+  
+C:\Users\user\source\repos\PeFusion\PeFusion\PeHandler.h(131,41): warning C4090: 'initializing': different '__unaligned' qualifiers
+  (compiling source file 'PeFusion.cpp')
+  
+  PeFusion.vcxproj -> C:\Users\user\source\repos\PeFusion\x64\Debug\PeFusion.exe
